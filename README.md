@@ -1,0 +1,3 @@
+# ReturnRight
+ReturnRight is an application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack for my   
+college community. The application enables users to report lost items and helps others in the community to find and return them. It features a user-friendly interface for reporting lost items, searching for found items, and facilitating communication between users. Implemented with modern web technologies, the application streamlines the process of reuniting lost items with their owners, promoting a sense of community responsibility and efficiency. 
